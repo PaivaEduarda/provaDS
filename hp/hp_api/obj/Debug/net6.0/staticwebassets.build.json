@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mviYsWSPMJ/wGSPNHNF+3BlhAbDwU0xFMEZjZNW21EQ=",
+  "Source": "hp_api",
+  "BasePath": "_content/hp_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "nome": "Harry Potter",
+        "especie": "human",
+        "casa": "Gryffindor",
+        "ator": "Daniel Radcliffe",
+        "imagem": "harry.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Hermione Granger",
+        "especie": "human",
+        "casa": "Gryffindor",
+        "ator": "Emma Watson",
+        "imagem": "hermione.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Ron Weasley",
+        "especie": "human",
+        "casa": "Gryffindor",
+        "ator": "Rupert Grint",
+        "imagem": "ron.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Draco Malfoy",
+        "especie": "human",
+        "casa": "Slytherin",
+        "ator": "Tom Felton",
+        "imagem": "draco.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Minerva McGonagall",
+        "especie": "human",
+        "casa": "Gryffindor",
+        "ator": "Dame Maggie Smith",
+        "imagem": "minerva.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Cedric Diggory",
+        "especie": "human",
+        "casa": "Hufflepuff",
+        "ator": "Robert Pattinson",
+        "imagem": "cedric.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "Severus Snape",
+        "especie": "human",
+        "casa": "Slytherin",
+        "ator": "Alan Rickman",
+        "imagem": "severus.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Rubeus Hagrid",
+        "especie": "half-giant",
+        "casa": "Gryffindor",
+        "ator": "Robbie Coltrane",
+        "imagem": "hagrid.jpg"
+    }
+]
